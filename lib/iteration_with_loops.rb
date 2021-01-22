@@ -7,5 +7,5 @@ def join_nested_strings(src)
     end
   end
 end
-new_array.join("")
+new_array.join(" ")
 end
